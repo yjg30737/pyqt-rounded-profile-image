@@ -11,3 +11,12 @@ PyQt rounded profile image like Youtube, Google, etc.
 ## Preview
 
 ![image](https://user-images.githubusercontent.com/55078043/215319608-4c0e95dd-06f8-400d-8d51-ed516a49fe88.png)
+
+You can select the image file to show (*.png, *.jpg, *.bmp)
+
+There are two images (both two are Laurie Holden) in the root directory for testing the feature.
+
+## TODO list
+* Default image or text
+* Popup window
+* Animation
